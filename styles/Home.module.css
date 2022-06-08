@@ -1,0 +1,67 @@
+.header {
+  padding-top: 15px;
+  padding-bottom: 10px;
+  background-color: #FFF59D;
+}
+
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.padding_top {
+  padding-top: 15px;
+}
+
+.input_dropzone {
+  border: 2px solid grey;
+  border-style: dashed;
+  height: 15vh;
+}
+.text_dropzone {
+  padding-top: 35px;
+  text-align: center;
+}
+
+.text_style {
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+.text_title {
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-weight: bold;
+}
+
+.text_student{
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 16px;
+}
+
+.text_form{
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-weight: bold;
+}
+
+.ul {
+  margin-top: 10px;
+}
+
+.list a{
+  text-decoration: none !important;
+  color: black;
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  padding-left: 18px;
+}
+
+.card {
+  width: 20rem;
+  margin-bottom: 15px;
+  margin-left: 30px;
+  box-shadow: 0.1rem 0.1rem 1rem rgba(0, 0, 0, 0.294);
+}
+
+.card_title {
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
